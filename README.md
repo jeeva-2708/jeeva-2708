@@ -1,6 +1,9 @@
-# 💫 About Me:
-👋 Hi, I'm Jeeva Viswanathan  <br>🎓 B.E. Computer Science & Engineering | Karpaga Vinayaga College (2022–2026)  <br>🌐 Front-End Developer | React.js | JavaScript | HTML | CSS | Tailwind CSS  <br>📍 Based in Chennai, India  <br><br>💻 I build responsive and interactive web applications using modern front-end technologies.  <br>🚀 Projects:  <br>- 📝 To-Do List App (React, LocalStorage)  <br>- 🏫 Symposium Registration Website (HTML, CSS, JS)  <br>- 💉 Blood Donation Site (Bootstrap, JS)<br><br>🔧 Tools I use: Git, GitHub, VS Code, Chrome DevTools  <br>📚 Certified in Responsive Web Design (freeCodeCamp)  <br>⚡ Recently completed a React.js internship & AI + React Bootcamp  <br><br>📫 Let's connect!  <br>📎 [LinkedIn](https://www.linkedin.com/in/jeeva-viswanathan-b2a44b274)<br>
-
+ 🔭 I’m currently working on React.js projects to strengthen my front-end skills and build real-world applications.  
+ 🤝 I’m looking to collaborate on open-source front-end projects and UI-focused web apps.  
+ 🌱 I’m currently learning advanced React concepts, API integration, and UI/UX best practices.  
+ 💬 Ask me about React.js, JavaScript, Tailwind CSS, and building responsive websites.  
+ 😄 I’m looking for help with optimizing performance in React apps and contributing to open-source.  
+ ⚡ Fun fact: I love turning simple ideas into live, functional web pages—clean UI makes me happy! 😄
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jeeva._27) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jeeva viswanathan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeeva.viswanathan04@gmail.com) 
