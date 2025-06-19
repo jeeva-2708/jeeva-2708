@@ -1,4 +1,4 @@
- 🔭 I’m currently working on React.js projects to strengthen my front-end skills and build real-world applications.  
+ 🔭 I’m currently working on React.js projects to strengthen my front-end skills and build real-world applications.   
  🤝 I’m looking to collaborate on open-source front-end projects and UI-focused web apps.  
  🌱 I’m currently learning advanced React concepts, API integration, and UI/UX best practices.  
  💬 Ask me about React.js, JavaScript, Tailwind CSS, and building responsive websites.  
